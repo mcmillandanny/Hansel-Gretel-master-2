@@ -13,13 +13,12 @@ $header-font: 'Bigshot One', cursive;
 
 	.scrolltext {
 		font-size: 3vw;
-		text-align: center;
 	}
 
 
 	.storyTextIntro {
 		position: absolute;
-		top: 26%;
+		top: 20%;
 		left: 10%;
 		font-family: $copy-font;
 		font-size: 2.5vw;
@@ -30,7 +29,7 @@ $header-font: 'Bigshot One', cursive;
 
 
 		.aIntro {
-			font-size: 4vw;
+			font-size: 3vw;
 			color: #1f3437;
 		} 
 	}
@@ -38,7 +37,7 @@ $header-font: 'Bigshot One', cursive;
 	.storyText1 {
 		position: absolute;
 		top: 10%;
-		left: 10%;
+		left: 5%;
 		font-family: $copy-font;
 		font-size: 2.5vw;
 		color: #3f817d;
@@ -46,7 +45,7 @@ $header-font: 'Bigshot One', cursive;
 		opacity: 0;
 
 		.hText {
-			font-size: 6vw;
+			font-size: 3vw;
 			color: #1f3437;
 		}
 		p{
@@ -101,12 +100,12 @@ $header-font: 'Bigshot One', cursive;
 	}	
 
 	.title-b {
-		font-size: 10vw;
+		font-size: 7vw;
 		color: #3f817d;
 	}
 
 	.title-G {
-		font-size: 10vw;
+		font-size: 7vw;
 		color: #1f3437;
 	}
 	

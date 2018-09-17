@@ -80,12 +80,11 @@ table {
 
 .part1 .scrolltext {
 	font-size: 3vw;
-	text-align: center;
 }
 
 .part1 .storyTextIntro {
 	position: absolute;
-	top: 26%;
+	top: 20%;
 	left: 10%;
 	font-family: "Alice", serif;
 	font-size: 2.5vw;
@@ -95,14 +94,14 @@ table {
 }
 
 .part1 .storyTextIntro .aIntro {
-	font-size: 4vw;
+	font-size: 3vw;
 	color: #1f3437;
 }
 
 .part1 .storyText1 {
 	position: absolute;
 	top: 10%;
-	left: 10%;
+	left: 5%;
 	font-family: "Alice", serif;
 	font-size: 2.5vw;
 	color: #3f817d;
@@ -111,7 +110,7 @@ table {
 }
 
 .part1 .storyText1 .hText {
-	font-size: 6vw;
+	font-size: 3vw;
 	color: #1f3437;
 }
 
@@ -166,12 +165,12 @@ table {
 }
 
 .part1 .title .title-b {
-	font-size: 10vw;
+	font-size: 7vw;
 	color: #3f817d;
 }
 
 .part1 .title .title-G {
-	font-size: 10vw;
+	font-size: 7vw;
 	color: #1f3437;
 }
 
